@@ -1,0 +1,29 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    word-spacing: 30px;
+}
+h2{
+    text-align: center;
+}
+h3{
+background-color:bisque;
+font-size: 20px;
+color:black;
+width:500px;
+text-align: center;
+}
+p{
+line-height: 2;
+font-size: 18px;
+font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.blue-bg{
+background-color:gray;
+}
+mark{
+background-color:teal;
+}
